@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rishukumargupta8409@gmail.com**
 
-- ⚡ Fun fact **I am a Funnay and makes others also happy😉😀🤗**
+- ⚡ Fun fact **I am Funny and make others  happy😉😀🤗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
