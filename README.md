@@ -1,24 +1,30 @@
 <h1 align="center">Hi 👋, I'm Rishu Kumar Gupta</h1>
 <h3 align="center">Dedicated to enhancing efficiency and driving data-driven decision-making through AI and ML solutions. Committed to continuous personal and professional growth, with a knack for solving complex problems.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkgupta7463&label=Profile%20views&color=0e75b6&style=flat" alt="rkgupta7463" /> </p>
+
 <p align="left"> <a href="https://twitter.com/actgupta" target="blank"><img src="https://img.shields.io/twitter/follow/actgupta?logo=twitter&style=for-the-badge" alt="actgupta" /></a> </p>
 
 - 🌱 I’m currently learning **Advance Computer Vision and NLP**
 
 - 👨‍💻 All of my projects are available at [https://rishucareerblogstechnology12.pythonanywhere.com/](https://rishucareerblogstechnology12.pythonanywhere.com/)
 
-- 💬 Ask me about **Python, Machine Learning, Deep learning**
+- 💬 Ask me about **Python, Machine Learning, Deep learning, Django, Flask**
 
 - 📫 How to reach me **rishukumargupta8409@gmail.com**
 
-- ⚡ Fun fact **I am Funny and make others  happy😉😀🤗**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MhX8a7K4oN7YBQN62NPHiMx40kBLQaGw/view?usp=sharing](https://drive.google.com/file/d/1MhX8a7K4oN7YBQN62NPHiMx40kBLQaGw/view?usp=sharing)
+
+- ⚡ Fun fact **I am Funny and make others happy😉😀🤗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/actgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="actgupta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishu kumar gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishu kumar gupta" height="30" width="40" /></a>
-<a href="https://kaggle.com/rishu kumar gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishu kumar gupta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@technical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@technical" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishu-kumar-gupta-058737217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishu-kumar-gupta-058737217" height="30" width="40" /></a>
+<a href="https://kaggle.com/rishukumargupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishukumargupta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/technical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technical" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rishukumr0187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishukumr0187" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rishugupta12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishugupta12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkgupta7463&show_icons=true&locale=en" alt="rkgupta7463" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkgupta7463&" alt="rkgupta7463" /></p>
-
