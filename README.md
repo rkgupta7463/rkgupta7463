@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advance Computer Vision and NLP**
 
-- 👨‍💻 All of my projects are available at [https://techknowtake.pythonanywhere.com/](https://rishucareerblogstechnology12.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at [https://techknowtake.pythonanywhere.com/]
 
 - 💬 Ask me about **Python, Machine Learning, Deep learning, Django, Flask**
 
