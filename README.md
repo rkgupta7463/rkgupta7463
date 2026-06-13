@@ -1,17 +1,38 @@
 <h1 align="center">Hi 👋, I'm Rishu Kumar Gupta</h1>
-<h3 align="center">Dedicated to enhancing efficiency and driving data-driven decision-making through AI and ML solutions. Committed to continuous personal and professional growth, with a knack for solving complex problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkgupta7463&label=Profile%20views&color=0e75b6&style=flat" alt="rkgupta7463" /> </p>
+<h3 align="center">
+Associate Integration Engineer | Backend Developer | AI & Data Engineering Enthusiast
+</h3>
 
-<p align="left"> <a href="https://twitter.com/actgupta" target="blank"><img src="https://img.shields.io/twitter/follow/actgupta?logo=twitter&style=for-the-badge" alt="actgupta" /></a> </p>
+<p align="center">
+Building scalable backend systems, enterprise integrations, and AI-powered automation solutions using Python, Django, FastAPI, SQL, and cloud technologies.
+</p>
 
-- 🌱 I’m currently learning **Advance Computer Vision and NLP**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rkgupta7463&label=Profile%20views&color=0e75b6&style=flat" alt="rkgupta7463" />
+</p>
 
-- 👨‍💻 All of my projects are available at [https://techknowtake.pythonanywhere.com/]
+<p align="left">
+  <a href="https://twitter.com/actgupta" target="blank">
+    <img src="https://img.shields.io/twitter/follow/actgupta?logo=twitter&style=for-the-badge" alt="actgupta" />
+  </a>
+</p>
 
-- 💬 Ask me about **Python, Machine Learning, Deep learning, Django, Flask**
+* 🔭 Currently working as an **Associate Integration Engineer at PeopleStrong Technologies**
 
-- 📫 How to reach me **rishukumargupta8409@gmail.com**
+* 🌱 Currently learning **Data Engineering, Apache Airflow, Snowflake, and Advanced AI Systems**
+
+* ⚡ Experienced in **Enterprise Integrations, REST APIs, SFTP Pipelines, Biometric Systems, and Backend Architecture**
+
+* 👨‍💻 Worked with enterprise clients including **Aditya Birla Group, Bajaj Finance, Sobha Group, VLCC, YES MADAM, and Jupiter Hospital**
+
+* 🛠️ Tech Stack: **Python, Django, FastAPI, SQL, PostgreSQL, Docker, AWS, Redis, Machine Learning, LLMs**
+
+* 📂 Projects available at: **https://techknowtake.pythonanywhere.com/**
+
+* 💬 Ask me about **Python, Backend Development, APIs, Integrations, SQL, Django, FastAPI, and AI Automation**
+
+* 📫 Reach me at: **[rishukumargupta8409@gmail.com](mailto:rishukumargupta8409@gmail.com)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MhX8a7K4oN7YBQN62NPHiMx40kBLQaGw/view?usp=sharing](https://drive.google.com/file/d/1MhX8a7K4oN7YBQN62NPHiMx40kBLQaGw/view?usp=sharing)
 
